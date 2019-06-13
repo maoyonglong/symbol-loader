@@ -1,0 +1,17 @@
+{
+  "name": "symbol-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.34.0"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  }
+}
